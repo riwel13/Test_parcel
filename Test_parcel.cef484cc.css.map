@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["Test_parcel.cef484cc.css","src/styles.css"],"sourcesContent":["p {\n  color: #ff69b4;\n  font-family: cursive;\n  font-size: 100px;\n}\n/*# sourceMappingURL=Test_parcel.cef484cc.css.map */\n","p {\r\n  color: hotpink;\r\n  font-family: cursive;\r\n  font-size: 100px;\r\n}"],"names":[],"version":3,"file":"Test_parcel.cef484cc.css.map"}
